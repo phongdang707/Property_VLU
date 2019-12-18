@@ -1,0 +1,13 @@
+export const SHOW = "SHOW";
+export const SEARCH = "SEARCH";
+export const DELETE = "DELETE";
+export const DETAILS = "DETAILS";
+export const ADD = "ADD";
+export const SIGN_IN = "SIGN_IN";
+export const SIGN_OUT = "SIGN_OUT";
+export const GET_ERROR = "GET_ERROR";
+export const DETAILS_FULLCONTRACT = "DETAILS_FULLCONTRACT";
+export const UPDATE_PROPERTY = "UPDATE_PROPERTY";
+export const DELETE_FULLCONTRACT = "DELETE_FULLCONTRACT";
+export const VIEW_FULLCONTRACT = "VIEW_FULLCONTRACT";
+export const GET_SERVICE = "GET_SERVICE";
